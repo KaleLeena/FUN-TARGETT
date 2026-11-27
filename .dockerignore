@@ -1,0 +1,14 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+dist
+coverage
+*.log
+.DS_Store
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/.session_secret
+android

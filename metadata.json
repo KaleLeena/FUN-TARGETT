@@ -1,0 +1,6 @@
+{
+  "name": "FUN TARGET",
+  "description": "Royal gold and obsidian 0–9 number wheel virtual-points game with real-time 30-second rounds, customer dashboard, and owner admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
